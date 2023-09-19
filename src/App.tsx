@@ -8,7 +8,7 @@ function App() {
           <div className="container-water">
             <p>%</p>
             <p>Beber água</p>
-            <p>Meta: L</p>
+            <p>Sua meta: L</p>
           </div>
 
           <div className="container-meta">
